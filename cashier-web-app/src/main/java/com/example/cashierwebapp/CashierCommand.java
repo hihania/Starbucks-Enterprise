@@ -13,6 +13,11 @@ class CashierCommand {
     private String drink ;
     private String milk ;
     private String size ;
+    private String HaniasUselessVariable;
+
+    public String setHaniasUselessVariable(String x) {
+    HaniasUselessVariable = x;
+    }//
 
 }
 
